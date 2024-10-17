@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Chào em, cô bé tháng 10!',
-    introDesc: ` Thay mặt cho hội hot boy đẹp trai, không chúc emm giàu có chỉ chúc em bình yên, không chúc em lộng lẫy chỉ chúc em không muộn phiền!`,
+    introDesc: `Đạt đây, thay mặt cho hội hot boy đẹp trai, không chúc emm giàu có chỉ chúc em bình yên, không chúc em lộng lẫy chỉ chúc em không muộn phiền!`,
     btnIntro: 'hihi >',
     title: 'Luôn nở nụ cười trên môi nha 😙',
     desc: 'Phải chăng em đang cười đúng không ',
