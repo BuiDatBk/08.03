@@ -11,8 +11,7 @@ $(document).ready(function() {
 })
 
 function init(){
-    var audio = new Audio('sound/xinhtuoivietnam.mp3');
-    audio.play();
+
     $('#title').text(CONFIG.title)
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
